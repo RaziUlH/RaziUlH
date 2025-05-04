@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razi Ul Hassan</h1>
-<h3 align="center">Welcome to my GitHub! I'm a passionate Full Stack Developer with over 4 years of hands-on experience building end-to-end web solutions. I specialize in React.js, Next.js, Node.js, FastAPI, and cloud platforms like Firebase and Supabase. From developing scalable APIs to crafting responsive, pixel-perfect UIs – I love bringing ideas to life through clean and efficient code.</h3>
+<h3 align="center">Full Stack Developer with a strong problem solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raziulh&label=Profile%20views&color=0e75b6&style=flat" alt="raziulh" /> </p>
 
@@ -13,6 +13,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziulh&show_icons=true&locale=en&layout=compact" alt="raziulh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raziulh&show_icons=true&locale=en" alt="raziulh" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raziulh&" alt="raziulh" /></p>
