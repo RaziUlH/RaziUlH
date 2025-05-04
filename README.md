@@ -45,8 +45,8 @@ Welcome to my GitHub! I'm a passionate Full Stack Developer with over **4 years*
 
 ## 📫 Let's Connect
 
-- 📝 [LinkedIn](https://www.linkedin.com/in/razihassan)
-- 🌐 [Portfolio](https://your-portfolio-link.com)
+- 📝 [LinkedIn](https://www.linkedin.com/in/RaziUlH)
+- 🌐 [Portfolio](https://razihassan.vercel.app)
 - 📧 Email: razihassan.dev@gmail.com
 
 ---
